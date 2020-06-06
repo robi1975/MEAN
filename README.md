@@ -1,2 +1,0 @@
-# MEAN
-Mean application
